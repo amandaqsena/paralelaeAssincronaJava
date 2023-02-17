@@ -1,0 +1,1 @@
+Usa threads e CompletableFuture
