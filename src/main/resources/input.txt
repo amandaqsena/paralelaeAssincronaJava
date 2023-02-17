@@ -1,0 +1,2 @@
+Olá $NOME, Parabéns pelos seus $IDADE anos de vida!
+Desejamos a você muitas felicidades e sucesso em sua jornada. Atenciosamente, Equipe ADA.

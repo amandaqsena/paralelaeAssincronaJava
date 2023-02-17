@@ -1,0 +1,3 @@
+Sexo: F
+Idade: 19Linha 1
+Linha 2
